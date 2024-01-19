@@ -1,0 +1,2 @@
+bev_package
+-DCATKIN_DEVEL_PREFIX=/home/bevinda/bev_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/bevinda/bev_workspace/install -G Unix Makefiles
